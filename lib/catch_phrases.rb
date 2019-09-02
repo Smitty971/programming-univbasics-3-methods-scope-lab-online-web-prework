@@ -4,7 +4,7 @@ def mario
 end
 
 phrase = "It's s-a me, Mario!"
-Mario
+ 
 
 def toadstool
   puts status
