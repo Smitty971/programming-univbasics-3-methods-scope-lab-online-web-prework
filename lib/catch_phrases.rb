@@ -10,5 +10,9 @@ mario
 def toadstool
   puts $status
 end
+
 def link 
+  catch = "It's dnagerous To Go Alone! Take This."
+  puts catch 
+end
   
