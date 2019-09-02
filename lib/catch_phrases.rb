@@ -12,7 +12,7 @@ def toadstool
 end
 
 def link 
-  word = "It's dnagerous To Go Alone! Take This."
+  word = '\It's dnagerous To Go Alone! Take This.'
   puts word
 end
 link 
