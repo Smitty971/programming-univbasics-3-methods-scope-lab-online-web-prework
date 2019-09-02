@@ -12,7 +12,7 @@ def toadstool
 end
 
 def link 
-  catch = "\It's dnagerous To Go Alone! Take This."
-  puts catch
+  word = "\It's dnagerous To Go Alone! Take This."
+  puts word
 end
 link 
