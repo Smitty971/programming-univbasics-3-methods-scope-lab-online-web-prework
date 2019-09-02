@@ -1,9 +1,7 @@
 def mario
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  
+  phrase = "It's s-a me, Mario!"
   puts phrase
-  
-  return phrase
 end
 
  
