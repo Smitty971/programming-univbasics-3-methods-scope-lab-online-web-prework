@@ -3,7 +3,7 @@ def mario
   puts phrase
 end
 
-phrase = "It's"
+phrase = "It's "
 
 def toadstool
   puts status
